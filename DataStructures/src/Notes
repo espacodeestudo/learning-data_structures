@@ -1,0 +1,82 @@
+1.	Array fundamentals(Vector - Matrix)
+2.	Linked List
+3.	Stack
+4.	Hash Table
+5.	Queue (Lifo – Fifo)
+6.	Heap
+7.	Tree
+8.	Graph
+
+
+1. Notação Big O:
+
+Explicação: A notação Big O é uma forma de descrever o limite superior da complexidade temporal ou espacial de um algoritmo. Ela ajuda a analisar a eficiência dos algoritmos à medida que o tamanho de entrada cresce.
+Dicas de Estudo: Compreenda as complexidades temporais comuns (O(1), O(log n), O(n), O(n log n), O(n^2), etc.) e pratique analisar algoritmos.
+
+2. Estruturas de Dados:
+
+Explicação: Estruturas de dados são formas de organizar e armazenar dados para recuperação e manipulação eficientes. Exemplos incluem arrays, listas, pilhas, filas, árvores e grafos.
+Dicas de Estudo: Aprenda quando usar cada estrutura de dados, entenda suas complexidades temporais e pratique implementá-las.
+
+3. Programação Dinâmica:
+
+Explicação: Programação dinâmica é uma técnica de otimização em que problemas complexos são divididos em subproblemas sobrepostos mais simples, e as soluções são armazenadas para evitar cálculos redundantes.
+Dicas de Estudo: Pratique identificar problemas adequados para programação dinâmica, entenda subestrutura ótima e subproblemas sobrepostos, e pratique resolver problemas clássicos de DP.
+
+4. Busca Binária:
+
+Explicação: A busca binária é um algoritmo de divisão e conquista para encontrar um valor-alvo dentro de um array ordenado. Ela continua reduzindo o espaço de busca comparando o alvo com o elemento do meio.
+Dicas de Estudo: Compreenda o algoritmo, analise sua complexidade temporal e pratique implementar a busca binária.
+
+5. Recursão:
+
+Explicação: Recursão é um conceito de programação em que uma função chama a si mesma. É frequentemente usado para decompor um problema em subproblemas mais simples.
+Dicas de Estudo: Compreenda os princípios da recursão, pratique resolver problemas recursivamente e esteja atento aos casos base.
+
+6. Listas Encadeadas:
+
+Explicação: Listas encadeadas são estruturas de dados lineares em que os elementos são armazenados em nós, e cada nó aponta para o próximo.
+Dicas de Estudo: Entenda diferentes tipos de listas encadeadas (simples, duplas, circulares), pratique implementações e compare suas vantagens e desvantagens.
+
+7. Algoritmo de Dijkstra:
+
+Explicação: O algoritmo de Dijkstra é um algoritmo de busca em grafos para encontrar o caminho mais curto entre nós em um grafo ponderado.
+Dicas de Estudo: Compreenda o algoritmo, pratique a implementação e esteja familiarizado com filas de prioridade para um uso eficiente.
+
+8. Algoritmo A:*
+
+Explicação: O A* é um algoritmo de busca informada usado para navegação e travessia de grafos. Ele utiliza heurísticas para orientar a busca em direção ao objetivo.
+Dicas de Estudo: Compreenda o algoritmo, pratique a implementação de heurísticas e compare com outros algoritmos de busca.
+9. Grafos:
+
+Explicação: Grafos consistem em nós e arestas. Podem ser direcionados ou não direcionados, ponderados ou não ponderados, e são usados para modelar relações entre entidades.
+Dicas de Estudo: Aprenda representações de grafos (matriz de adjacência, lista de adjacência), entenda algoritmos comuns em grafos e pratique resolver problemas relacionados a grafos.
+
+10. Ordenação Radix, Quick Sort, Merge Sort, Heap Sort:
+
+Explicação: Esses são algoritmos de ordenação com complexidades temporais e abordagens diferentes. O Radix Sort não é comparativo, enquanto Quick Sort, Merge Sort e Heap Sort são baseados em comparação.
+Dicas de Estudo: Compreenda os princípios de cada algoritmo de ordenação, compare seu desempenho e pratique implementá-los.
+
+11. Array, Lista, Hash, Pilha, Filas, Árvores Binárias, Mapas:
+
+Explicação: Essas são estruturas de dados fundamentais. Arrays e listas armazenam elementos sequencialmente, tabelas hash fornecem acesso rápido baseado em chave, pilhas e filas seguem os princípios LIFO e FIFO, árvores binárias são estruturas hierárquicas e mapas armazenam pares chave-valor.
+Dicas de Estudo: Compreenda os casos de uso de cada uma, pratique implementações de operações e compare suas características.
+Mapa de Estudos:
+
+Nível Iniciante:
+
+Concentre-se em entender estruturas de dados básicas (arrays, listas).
+Aprenda e implemente algoritmos básicos (busca linear, ordenação básica).
+Pratique resolução de problemas com recursão.
+
+Nível Intermediário:
+
+Aprofunde o conhecimento em estruturas de dados (árvores, grafos, pilhas, filas).
+Explore algoritmos de ordenação em profundidade.
+Introduza algoritmos de grafos básicos (Dijkstra, BFS, DFS).
+
+Nível Avançado:
+
+Domine técnicas avançadas de programação dinâmica.
+Estude algoritmos de grafos avançados (A*, Floyd-Warshall).
+Aprofunde a compreensão de estruturas de dados mais complexas (heaps, tabelas hash).
