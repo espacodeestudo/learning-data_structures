@@ -121,13 +121,13 @@ Aqui estão alguns recursos recomendados para aprofundar o conhecimento em Estru
   - [LeetCode](https://leetcode.com/)
   - [HackerRank](https://www.hackerrank.com/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-  - 
+    
 - **Plataformas Online:**
--  https://www.udemy.com/course/algoritmos-e-estruturas-de-dados-leetcode/
--  https://frontendmasters.com/courses/algorithms/
+  - https://www.udemy.com/course/algoritmos-e-estruturas-de-dados-leetcode/
+  - https://frontendmasters.com/courses/algorithms/
   
 ## Contribuições
 
 Este é um projeto de estudo contínuo, e está em andamento. Se você quiser contribuir, sinta-se à vontade para enviar pull requests ou abrir issues com sugestões e melhorias.
 
-##Gilson-Leonel **UNO+ ***3Lite
+## Gilson-Leonel ** UNO+ *** 3Lite
